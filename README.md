@@ -3,21 +3,16 @@ A simple and interactive To-Do List web application built using HTML, CSS, and J
 
 ## 🚀 Features
 - Add new tasks
-
 - Delete completed or unwanted tasks
-
 - Simple and responsive UI
-
 - Lightweight and easy to use
 
-🛠️ Built With
-HTML
+## 🛠️ Built With
+- HTML
+- CSS
+- JavaScript
 
-CSS
-
-JavaScript
-
-📂 Project Setup
+## 📂 Project Setup
 Clone the repository
 
 git clone https://github.com/vanshksingh45-bit/TO-Do-List.git
