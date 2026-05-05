@@ -1,7 +1,7 @@
 # 📝 To-Do List
 A simple and interactive To-Do List web application built using HTML, CSS, and JavaScript. This project helps users manage daily tasks by allowing them to add and remove tasks easily in a clean and user-friendly interface.
 
-🚀 Features
+## 🚀 Features
 Add new tasks
 
 Delete completed or unwanted tasks
